@@ -1,10 +1,8 @@
-urllib
-requests
 numpy
 pandas
 matplotlib
 plotly
 datetime
+timedelta
 yfinance
 streamlit
-time
