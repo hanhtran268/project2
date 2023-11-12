@@ -2,9 +2,9 @@ urllib
 requests
 numpy
 pandas
-plotly.graph_objects
+matplotlib
+plotly
 datetime
 yfinance
 streamlit
 time
-plotly.subplots
